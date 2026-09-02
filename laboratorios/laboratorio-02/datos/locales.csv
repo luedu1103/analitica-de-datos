@@ -1,0 +1,121 @@
+id_local,nombre_local,region,tipo_local,m2
+1,FA-001,Piura,Calle,122
+2,FA-002,Áncash,Calle,49
+3,FA-003,Lambayeque,Calle,211
+4,FA-004,Junín,Calle,68
+5,FA-005,Lambayeque,Centro comercial,68
+6,FA-006,Piura,Centro comercial,115
+7,FA-007,Cusco,Calle,90
+8,FA-008,Junín,Centro comercial,196
+9,FA-009,La Libertad,Calle,125
+10,FA-010,Lima,Cadena de grifo,158
+11,FA-011,La Libertad,Calle,101
+12,FA-012,Cusco,Calle,133
+13,FA-013,Lima,Centro comercial,171
+14,FA-014,Lima,Cadena de grifo,165
+15,FA-015,Lima,Calle,83
+16,FA-016,Áncash,Calle,90
+17,FA-017,Lima,Cadena de grifo,218
+18,FA-018,Lima,Centro comercial,89
+19,FA-019,Arequipa,Calle,81
+20,FA-020,Arequipa,Cadena de grifo,144
+21,FA-021,Lima,Cadena de grifo,92
+22,FA-022,Piura,Centro comercial,108
+23,FA-023,Arequipa,Centro comercial,178
+24,FA-024,Lima,Calle,80
+25,FA-025,Lima,Centro comercial,212
+26,FA-026,Arequipa,Calle,51
+27,FA-027,Junín,Cadena de grifo,77
+28,FA-028,Lima,Cadena de grifo,97
+29,FA-029,Arequipa,Calle,210
+30,FA-030,Cusco,Centro comercial,161
+31,FA-031,Piura,Cadena de grifo,67
+32,FA-032,Junín,Calle,205
+33,FA-033,Lima,Calle,216
+34,FA-034,Arequipa,Calle,116
+35,FA-035,Lima,Centro comercial,148
+36,FA-036,Lima,Calle,180
+37,FA-037,Cusco,Calle,167
+38,FA-038,Lima,Centro comercial,218
+39,FA-039,Lima,Centro comercial,196
+40,FA-040,Lima,Cadena de grifo,202
+41,FA-041,Piura,Calle,153
+42,FA-042,Arequipa,Centro comercial,204
+43,FA-043,Lima,Calle,83
+44,FA-044,Lima,Centro comercial,185
+45,FA-045,Lambayeque,Calle,127
+46,FA-046,La Libertad,Centro comercial,185
+47,FA-047,La Libertad,Calle,95
+48,FA-048,La Libertad,Calle,109
+49,FA-049,La Libertad,Centro comercial,144
+50,FA-050,Lima,Centro comercial,80
+51,FA-051,Arequipa,Calle,204
+52,FA-052,Piura,Calle,79
+53,FA-053,Lima,Calle,192
+54,FA-054,Piura,Centro comercial,94
+55,FA-055,Áncash,Centro comercial,161
+56,FA-056,Cusco,Cadena de grifo,108
+57,FA-057,Lambayeque,Centro comercial,62
+58,FA-058,Lima,Calle,149
+59,FA-059,Lima,Cadena de grifo,187
+60,FA-060,Junín,Calle,140
+61,FA-061,Lambayeque,Centro comercial,49
+62,FA-062,La Libertad,Cadena de grifo,125
+63,FA-063,Cusco,Calle,88
+64,FA-064,Áncash,Cadena de grifo,145
+65,FA-065,Arequipa,Calle,92
+66,FA-066,Arequipa,Calle,132
+67,FA-067,Piura,Calle,203
+68,FA-068,Áncash,Cadena de grifo,80
+69,FA-069,Cusco,Calle,137
+70,FA-070,Lambayeque,Calle,89
+71,FA-071,Lima,Cadena de grifo,107
+72,FA-072,Piura,Cadena de grifo,101
+73,FA-073,Lima,Calle,70
+74,FA-074,Cusco,Centro comercial,79
+75,FA-075,Lima,Calle,206
+76,FA-076,Cusco,Centro comercial,167
+77,FA-077,Piura,Centro comercial,213
+78,FA-078,Lima,Centro comercial,154
+79,FA-079,Junín,Centro comercial,199
+80,FA-080,Arequipa,Calle,105
+81,FA-081,Piura,Calle,100
+82,FA-082,Cusco,Calle,191
+83,FA-083,Lambayeque,Calle,85
+84,FA-084,Áncash,Centro comercial,99
+85,FA-085,Cusco,Centro comercial,53
+86,FA-086,Áncash,Calle,125
+87,FA-087,Lambayeque,Calle,190
+88,FA-088,Lambayeque,Calle,183
+89,FA-089,Arequipa,Calle,177
+90,FA-090,Lambayeque,Calle,165
+91,FA-091,Áncash,Calle,81
+92,FA-092,La Libertad,Cadena de grifo,62
+93,FA-093,Áncash,Calle,177
+94,FA-094,Lima,Centro comercial,130
+95,FA-095,Lima,Centro comercial,130
+96,FA-096,Lima,Calle,134
+97,FA-097,Áncash,Calle,170
+98,FA-098,La Libertad,Centro comercial,212
+99,FA-099,La Libertad,Centro comercial,82
+100,FA-100,Piura,Calle,76
+101,FA-101,Lima,Calle,195
+102,FA-102,Lambayeque,Calle,213
+103,FA-103,Lambayeque,Calle,100
+104,FA-104,La Libertad,Calle,207
+105,FA-105,Junín,Centro comercial,85
+106,FA-106,Lima,Cadena de grifo,144
+107,FA-107,Arequipa,Calle,203
+108,FA-108,Junín,Calle,154
+109,FA-109,La Libertad,Cadena de grifo,163
+110,FA-110,Lima,Calle,98
+111,FA-111,Lambayeque,Centro comercial,155
+112,FA-112,Lambayeque,Calle,82
+113,FA-113,Lima,Calle,83
+114,FA-114,Áncash,Calle,84
+115,FA-115,La Libertad,Calle,91
+116,FA-116,Junín,Cadena de grifo,77
+117,FA-117,Junín,Calle,59
+118,FA-118,Lima,Calle,170
+119,FA-119,Lima,Calle,159
+120,FA-120,Lima,Calle,196

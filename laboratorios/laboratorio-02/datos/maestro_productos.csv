@@ -1,0 +1,801 @@
+id_producto,nombre_producto,categoria,requiere_receta,precio_lista
+1000,HIGI-0001,Higiene personal,N,32.14
+1001,CUID-0002,Cuidado infantil,S,28.26
+1002,ANAL-0003,Analgésicos,N,16.34
+1003,GENÉ-0004,Genéricos,N,15.21
+1004,GENÉ-0005,Genéricos,S,11.36
+1005,GENÉ-0006,Genéricos,S,13.36
+1006,ANTI-0007,Antigripales,N,26.3
+1007,VITA-0008,Vitaminas,N,77.12
+1008,ANAL-0009,Analgésicos,N,20.85
+1009,CUID-0010,Cuidado infantil,N,66.32
+1010,GENÉ-0011,Genéricos,S,17.45
+1011,DERM-0012,Dermatológicos,N,55.59
+1012,ANAL-0013,Analgésicos,S,22.63
+1013,GENÉ-0014,Genéricos,N,16.01
+1014,DERM-0015,Dermatológicos,S,72.18
+1015,ANAL-0016,Analgésicos,S,17.94
+1016,ANAL-0017,Analgésicos,N,14.83
+1017,VITA-0018,Vitaminas,N,86.56
+1018,VITA-0019,Vitaminas,N,74.86
+1019,GENÉ-0020,Genéricos,N,17.69
+1020,ANAL-0021,Analgésicos,N,22.16
+1021,HIGI-0022,Higiene personal,N,21.2
+1022,ANAL-0023,Analgésicos,S,15.1
+1023,HIGI-0024,Higiene personal,S,23.57
+1024,HIGI-0025,Higiene personal,N,25.69
+1025,HIGI-0026,Higiene personal,N,10.27
+1026,GENÉ-0027,Genéricos,N,3.0
+1027,ANAL-0028,Analgésicos,S,10.98
+1028,DERM-0029,Dermatológicos,S,42.69
+1029,ANTI-0030,Antigripales,N,14.11
+1030,CUID-0031,Cuidado infantil,N,66.82
+1031,CUID-0032,Cuidado infantil,N,70.17
+1032,CUID-0033,Cuidado infantil,N,39.54
+1033,GENÉ-0034,Genéricos,N,11.55
+1034,ANTI-0035,Antigripales,N,11.8
+1035,HIGI-0036,Higiene personal,N,25.43
+1036,ANAL-0037,Analgésicos,S,24.98
+1037,HIGI-0038,Higiene personal,N,17.88
+1038,DERM-0039,Dermatológicos,S,77.01
+1039,ANTI-0040,Antigripales,N,24.94
+1040,HIGI-0041,Higiene personal,N,37.4
+1041,GENÉ-0042,Genéricos,S,3.91
+1042,ANTI-0043,Antigripales,N,10.57
+1043,VITA-0044,Vitaminas,N,30.3
+1044,ANTI-0045,Antigripales,N,29.57
+1045,VITA-0046,Vitaminas,N,116.35
+1046,GENÉ-0047,Genéricos,N,6.58
+1047,HIGI-0048,Higiene personal,N,31.47
+1048,GENÉ-0049,Genéricos,N,2.87
+1049,GENÉ-0050,Genéricos,N,7.64
+1050,CUID-0051,Cuidado infantil,N,45.07
+1051,ANAL-0052,Analgésicos,N,21.61
+1052,ANTI-0053,Antigripales,S,33.64
+1053,HIGI-0054,Higiene personal,N,35.84
+1054,GENÉ-0055,Genéricos,S,8.03
+1055,VITA-0056,Vitaminas,N,93.53
+1056,GENÉ-0057,Genéricos,N,7.39
+1057,ANTI-0058,Antigripales,N,41.62
+1058,CUID-0059,Cuidado infantil,N,30.8
+1059,DERM-0060,Dermatológicos,N,50.13
+1060,ANTI-0061,Antigripales,N,12.25
+1061,ANTI-0062,Antigripales,S,30.06
+1062,GENÉ-0063,Genéricos,N,16.8
+1063,HIGI-0064,Higiene personal,N,31.17
+1064,HIGI-0065,Higiene personal,N,22.35
+1065,ANAL-0066,Analgésicos,N,21.16
+1066,DERM-0067,Dermatológicos,N,61.64
+1067,ANTI-0068,Antigripales,N,28.88
+1068,VITA-0069,Vitaminas,N,49.95
+1069,ANAL-0070,Analgésicos,S,20.14
+1070,HIGI-0071,Higiene personal,N,12.4
+1071,HIGI-0072,Higiene personal,N,8.78
+1072,ANTI-0073,Antigripales,N,15.29
+1073,DERM-0074,Dermatológicos,N,61.97
+1074,GENÉ-0075,Genéricos,S,13.64
+1075,VITA-0076,Vitaminas,N,99.94
+1076,DERM-0077,Dermatológicos,S,45.18
+1077,HIGI-0078,Higiene personal,N,39.84
+1078,ANTI-0079,Antigripales,N,32.24
+1079,ANTI-0080,Antigripales,N,12.55
+1080,ANAL-0081,Analgésicos,N,14.86
+1081,VITA-0082,Vitaminas,N,30.87
+1082,DERM-0083,Dermatológicos,N,24.68
+1083,ANTI-0084,Antigripales,N,21.61
+1084,HIGI-0085,Higiene personal,S,12.27
+1085,ANAL-0086,Analgésicos,N,26.32
+1086,HIGI-0087,Higiene personal,N,34.33
+1087,ANAL-0088,Analgésicos,S,9.6
+1088,GENÉ-0089,Genéricos,S,10.83
+1089,ANAL-0090,Analgésicos,N,15.48
+1090,HIGI-0091,Higiene personal,N,33.89
+1091,ANTI-0092,Antigripales,N,32.2
+1092,VITA-0093,Vitaminas,N,79.27
+1093,ANAL-0094,Analgésicos,N,20.02
+1094,HIGI-0095,Higiene personal,N,12.61
+1095,HIGI-0096,Higiene personal,N,16.8
+1096,DERM-0097,Dermatológicos,N,30.52
+1097,DERM-0098,Dermatológicos,N,52.5
+1098,ANAL-0099,Analgésicos,N,22.26
+1099,GENÉ-0100,Genéricos,N,14.75
+1100,ANTI-0101,Antigripales,N,36.56
+1101,HIGI-0102,Higiene personal,N,35.95
+1102,ANAL-0103,Analgésicos,S,18.81
+1103,CUID-0104,Cuidado infantil,N,27.55
+1104,HIGI-0105,Higiene personal,N,11.3
+1105,ANTI-0106,Antigripales,N,38.55
+1106,CUID-0107,Cuidado infantil,N,26.98
+1107,GENÉ-0108,Genéricos,N,15.52
+1108,HIGI-0109,Higiene personal,S,21.29
+1109,HIGI-0110,Higiene personal,S,28.84
+1110,GENÉ-0111,Genéricos,N,13.37
+1111,DERM-0112,Dermatológicos,N,27.55
+1112,GENÉ-0113,Genéricos,N,16.9
+1113,VITA-0114,Vitaminas,N,52.67
+1114,ANTI-0115,Antigripales,N,21.63
+1115,ANTI-0116,Antigripales,N,43.76
+1116,HIGI-0117,Higiene personal,S,18.65
+1117,GENÉ-0118,Genéricos,S,15.16
+1118,HIGI-0119,Higiene personal,N,30.04
+1119,GENÉ-0120,Genéricos,S,12.02
+1120,ANTI-0121,Antigripales,N,40.71
+1121,GENÉ-0122,Genéricos,N,10.73
+1122,ANAL-0123,Analgésicos,N,22.89
+1123,HIGI-0124,Higiene personal,N,39.24
+1124,VITA-0125,Vitaminas,N,68.27
+1125,HIGI-0126,Higiene personal,N,16.23
+1126,ANTI-0127,Antigripales,N,15.44
+1127,CUID-0128,Cuidado infantil,N,58.55
+1128,GENÉ-0129,Genéricos,N,10.56
+1129,DERM-0130,Dermatológicos,N,56.47
+1130,ANTI-0131,Antigripales,N,24.14
+1131,HIGI-0132,Higiene personal,N,7.5
+1132,VITA-0133,Vitaminas,N,56.32
+1133,DERM-0134,Dermatológicos,N,66.94
+1134,VITA-0135,Vitaminas,N,59.95
+1135,ANAL-0136,Analgésicos,S,26.88
+1136,VITA-0137,Vitaminas,N,102.9
+1137,ANAL-0138,Analgésicos,N,28.34
+1138,ANAL-0139,Analgésicos,S,20.53
+1139,GENÉ-0140,Genéricos,N,17.76
+1140,ANAL-0141,Analgésicos,N,18.18
+1141,GENÉ-0142,Genéricos,N,11.24
+1142,GENÉ-0143,Genéricos,N,4.76
+1143,GENÉ-0144,Genéricos,S,11.87
+1144,ANTI-0145,Antigripales,N,25.95
+1145,GENÉ-0146,Genéricos,S,12.85
+1146,GENÉ-0147,Genéricos,S,3.39
+1147,CUID-0148,Cuidado infantil,N,47.0
+1148,ANAL-0149,Analgésicos,N,8.57
+1149,ANAL-0150,Analgésicos,S,27.94
+1150,HIGI-0151,Higiene personal,S,27.41
+1151,VITA-0152,Vitaminas,N,49.18
+1152,ANAL-0153,Analgésicos,N,12.56
+1153,GENÉ-0154,Genéricos,N,9.7
+1154,ANTI-0155,Antigripales,N,11.45
+1155,DERM-0156,Dermatológicos,N,57.04
+1156,GENÉ-0157,Genéricos,N,7.1
+1157,HIGI-0158,Higiene personal,N,38.96
+1158,DERM-0159,Dermatológicos,N,92.88
+1159,CUID-0160,Cuidado infantil,N,21.03
+1160,ANAL-0161,Analgésicos,N,13.43
+1161,ANAL-0162,Analgésicos,N,22.8
+1162,VITA-0163,Vitaminas,N,53.11
+1163,HIGI-0164,Higiene personal,N,26.36
+1164,GENÉ-0165,Genéricos,S,6.19
+1165,ANTI-0166,Antigripales,S,20.69
+1166,ANTI-0167,Antigripales,N,10.8
+1167,HIGI-0168,Higiene personal,N,23.79
+1168,ANTI-0169,Antigripales,S,38.97
+1169,DERM-0170,Dermatológicos,N,82.62
+1170,HIGI-0171,Higiene personal,N,37.29
+1171,DERM-0172,Dermatológicos,N,19.76
+1172,GENÉ-0173,Genéricos,N,17.96
+1173,HIGI-0174,Higiene personal,N,31.6
+1174,ANAL-0175,Analgésicos,N,23.37
+1175,HIGI-0176,Higiene personal,N,29.15
+1176,ANAL-0177,Analgésicos,N,19.17
+1177,ANTI-0178,Antigripales,N,30.36
+1178,VITA-0179,Vitaminas,N,57.86
+1179,HIGI-0180,Higiene personal,N,26.48
+1180,ANAL-0181,Analgésicos,S,13.31
+1181,ANTI-0182,Antigripales,N,41.58
+1182,CUID-0183,Cuidado infantil,N,29.41
+1183,HIGI-0184,Higiene personal,S,21.22
+1184,GENÉ-0185,Genéricos,N,14.88
+1185,ANAL-0186,Analgésicos,N,14.87
+1186,HIGI-0187,Higiene personal,N,28.54
+1187,HIGI-0188,Higiene personal,N,23.24
+1188,GENÉ-0189,Genéricos,N,8.33
+1189,ANTI-0190,Antigripales,N,33.89
+1190,HIGI-0191,Higiene personal,N,28.72
+1191,ANTI-0192,Antigripales,N,20.27
+1192,ANAL-0193,Analgésicos,N,5.2
+1193,HIGI-0194,Higiene personal,N,23.45
+1194,GENÉ-0195,Genéricos,S,11.51
+1195,CUID-0196,Cuidado infantil,N,48.13
+1196,GENÉ-0197,Genéricos,N,7.15
+1197,VITA-0198,Vitaminas,N,107.68
+1198,DERM-0199,Dermatológicos,N,35.64
+1199,HIGI-0200,Higiene personal,N,37.66
+1200,CUID-0201,Cuidado infantil,N,16.88
+1201,VITA-0202,Vitaminas,N,46.61
+1202,VITA-0203,Vitaminas,S,109.58
+1203,GENÉ-0204,Genéricos,N,16.59
+1204,ANTI-0205,Antigripales,N,12.98
+1205,GENÉ-0206,Genéricos,N,9.36
+1206,ANAL-0207,Analgésicos,N,13.18
+1207,ANAL-0208,Analgésicos,N,15.88
+1208,ANAL-0209,Analgésicos,N,25.58
+1209,GENÉ-0210,Genéricos,S,16.88
+1210,HIGI-0211,Higiene personal,N,35.15
+1211,HIGI-0212,Higiene personal,N,19.2
+1212,HIGI-0213,Higiene personal,N,28.95
+1213,ANTI-0214,Antigripales,N,41.12
+1214,ANAL-0215,Analgésicos,N,24.43
+1215,ANAL-0216,Analgésicos,N,27.48
+1216,ANAL-0217,Analgésicos,N,8.81
+1217,GENÉ-0218,Genéricos,N,4.4
+1218,GENÉ-0219,Genéricos,N,5.3
+1219,HIGI-0220,Higiene personal,N,12.48
+1220,VITA-0221,Vitaminas,N,25.62
+1221,ANAL-0222,Analgésicos,N,5.08
+1222,HIGI-0223,Higiene personal,N,21.0
+1223,ANAL-0224,Analgésicos,S,13.29
+1224,ANTI-0225,Antigripales,N,10.35
+1225,ANAL-0226,Analgésicos,N,6.51
+1226,ANTI-0227,Antigripales,N,8.09
+1227,ANAL-0228,Analgésicos,N,26.68
+1228,DERM-0229,Dermatológicos,N,22.0
+1229,ANAL-0230,Analgésicos,N,26.1
+1230,VITA-0231,Vitaminas,N,92.77
+1231,DERM-0232,Dermatológicos,N,44.0
+1232,ANTI-0233,Antigripales,N,27.7
+1233,GENÉ-0234,Genéricos,S,7.53
+1234,DERM-0235,Dermatológicos,N,73.31
+1235,ANAL-0236,Analgésicos,N,13.23
+1236,CUID-0237,Cuidado infantil,N,16.6
+1237,HIGI-0238,Higiene personal,N,31.98
+1238,ANAL-0239,Analgésicos,N,12.5
+1239,ANAL-0240,Analgésicos,N,21.93
+1240,HIGI-0241,Higiene personal,S,33.17
+1241,GENÉ-0242,Genéricos,N,6.1
+1242,CUID-0243,Cuidado infantil,N,43.74
+1243,GENÉ-0244,Genéricos,S,14.64
+1244,ANTI-0245,Antigripales,N,42.85
+1245,CUID-0246,Cuidado infantil,N,31.33
+1246,HIGI-0247,Higiene personal,N,11.05
+1247,ANTI-0248,Antigripales,N,38.01
+1248,ANTI-0249,Antigripales,N,15.18
+1249,CUID-0250,Cuidado infantil,N,70.0
+1250,DERM-0251,Dermatológicos,N,48.21
+1251,DERM-0252,Dermatológicos,N,24.77
+1252,ANAL-0253,Analgésicos,N,5.51
+1253,CUID-0254,Cuidado infantil,N,70.16
+1254,CUID-0255,Cuidado infantil,N,41.46
+1255,ANAL-0256,Analgésicos,N,6.19
+1256,GENÉ-0257,Genéricos,N,13.4
+1257,CUID-0258,Cuidado infantil,S,55.23
+1258,GENÉ-0259,Genéricos,N,11.04
+1259,DERM-0260,Dermatológicos,N,20.76
+1260,ANAL-0261,Analgésicos,N,26.8
+1261,ANTI-0262,Antigripales,S,43.52
+1262,VITA-0263,Vitaminas,S,110.25
+1263,CUID-0264,Cuidado infantil,N,57.86
+1264,ANTI-0265,Antigripales,N,13.18
+1265,GENÉ-0266,Genéricos,N,5.8
+1266,GENÉ-0267,Genéricos,N,4.13
+1267,DERM-0268,Dermatológicos,S,94.32
+1268,ANAL-0269,Analgésicos,N,9.16
+1269,ANAL-0270,Analgésicos,N,6.47
+1270,ANTI-0271,Antigripales,N,11.75
+1271,ANAL-0272,Analgésicos,N,6.64
+1272,VITA-0273,Vitaminas,S,78.09
+1273,VITA-0274,Vitaminas,N,81.93
+1274,CUID-0275,Cuidado infantil,S,67.16
+1275,ANAL-0276,Analgésicos,N,26.35
+1276,GENÉ-0277,Genéricos,N,4.12
+1277,ANAL-0278,Analgésicos,N,8.04
+1278,CUID-0279,Cuidado infantil,S,58.26
+1279,ANAL-0280,Analgésicos,S,6.11
+1280,CUID-0281,Cuidado infantil,N,58.62
+1281,ANTI-0282,Antigripales,N,36.94
+1282,ANTI-0283,Antigripales,N,40.96
+1283,ANAL-0284,Analgésicos,N,19.59
+1284,ANTI-0285,Antigripales,N,12.69
+1285,ANAL-0286,Analgésicos,S,23.89
+1286,VITA-0287,Vitaminas,S,58.52
+1287,CUID-0288,Cuidado infantil,N,53.48
+1288,ANTI-0289,Antigripales,N,42.86
+1289,ANAL-0290,Analgésicos,N,8.77
+1290,ANTI-0291,Antigripales,N,32.97
+1291,GENÉ-0292,Genéricos,N,11.83
+1292,GENÉ-0293,Genéricos,N,16.27
+1293,DERM-0294,Dermatológicos,S,22.35
+1294,ANTI-0295,Antigripales,N,37.41
+1295,ANTI-0296,Antigripales,N,44.1
+1296,ANTI-0297,Antigripales,N,18.22
+1297,HIGI-0298,Higiene personal,N,33.24
+1298,GENÉ-0299,Genéricos,N,5.86
+1299,ANTI-0300,Antigripales,S,20.73
+1300,HIGI-0301,Higiene personal,N,27.87
+1301,CUID-0302,Cuidado infantil,N,65.28
+1302,ANTI-0303,Antigripales,S,30.21
+1303,GENÉ-0304,Genéricos,S,16.11
+1304,ANAL-0305,Analgésicos,N,29.84
+1305,ANAL-0306,Analgésicos,N,20.4
+1306,ANTI-0307,Antigripales,N,20.83
+1307,DERM-0308,Dermatológicos,N,70.89
+1308,CUID-0309,Cuidado infantil,N,17.51
+1309,ANAL-0310,Analgésicos,N,16.18
+1310,ANTI-0311,Antigripales,N,30.24
+1311,HIGI-0312,Higiene personal,N,14.92
+1312,GENÉ-0313,Genéricos,N,7.87
+1313,GENÉ-0314,Genéricos,N,7.52
+1314,HIGI-0315,Higiene personal,N,26.75
+1315,CUID-0316,Cuidado infantil,N,50.98
+1316,CUID-0317,Cuidado infantil,N,43.21
+1317,DERM-0318,Dermatológicos,N,66.35
+1318,GENÉ-0319,Genéricos,N,13.67
+1319,ANTI-0320,Antigripales,S,26.91
+1320,HIGI-0321,Higiene personal,S,16.41
+1321,ANAL-0322,Analgésicos,N,6.48
+1322,ANAL-0323,Analgésicos,N,14.16
+1323,VITA-0324,Vitaminas,N,115.91
+1324,GENÉ-0325,Genéricos,N,14.45
+1325,ANTI-0326,Antigripales,N,16.59
+1326,ANTI-0327,Antigripales,S,13.62
+1327,GENÉ-0328,Genéricos,N,17.13
+1328,VITA-0329,Vitaminas,N,71.97
+1329,HIGI-0330,Higiene personal,N,12.76
+1330,CUID-0331,Cuidado infantil,N,46.43
+1331,GENÉ-0332,Genéricos,S,6.98
+1332,ANAL-0333,Analgésicos,N,17.65
+1333,DERM-0334,Dermatológicos,S,23.35
+1334,HIGI-0335,Higiene personal,N,27.37
+1335,VITA-0336,Vitaminas,S,66.35
+1336,ANAL-0337,Analgésicos,N,29.47
+1337,VITA-0338,Vitaminas,N,111.51
+1338,ANAL-0339,Analgésicos,N,8.51
+1339,VITA-0340,Vitaminas,S,31.02
+1340,CUID-0341,Cuidado infantil,N,36.17
+1341,GENÉ-0342,Genéricos,N,17.79
+1342,VITA-0343,Vitaminas,N,23.2
+1343,ANTI-0344,Antigripales,N,16.6
+1344,DERM-0345,Dermatológicos,N,27.13
+1345,GENÉ-0346,Genéricos,S,8.9
+1346,ANTI-0347,Antigripales,S,15.56
+1347,GENÉ-0348,Genéricos,N,3.29
+1348,HIGI-0349,Higiene personal,N,9.26
+1349,VITA-0350,Vitaminas,N,33.1
+1350,ANTI-0351,Antigripales,N,36.41
+1351,ANTI-0352,Antigripales,N,20.65
+1352,HIGI-0353,Higiene personal,N,35.52
+1353,ANAL-0354,Analgésicos,N,25.05
+1354,CUID-0355,Cuidado infantil,N,36.24
+1355,HIGI-0356,Higiene personal,N,18.61
+1356,ANAL-0357,Analgésicos,S,19.86
+1357,ANAL-0358,Analgésicos,N,21.1
+1358,ANAL-0359,Analgésicos,N,25.24
+1359,GENÉ-0360,Genéricos,N,7.58
+1360,ANAL-0361,Analgésicos,S,15.7
+1361,GENÉ-0362,Genéricos,N,3.72
+1362,GENÉ-0363,Genéricos,N,12.99
+1363,VITA-0364,Vitaminas,S,49.08
+1364,VITA-0365,Vitaminas,N,32.96
+1365,HIGI-0366,Higiene personal,S,38.06
+1366,DERM-0367,Dermatológicos,N,30.43
+1367,VITA-0368,Vitaminas,N,105.29
+1368,ANTI-0369,Antigripales,S,30.04
+1369,ANTI-0370,Antigripales,S,34.07
+1370,DERM-0371,Dermatológicos,N,94.63
+1371,HIGI-0372,Higiene personal,N,6.68
+1372,ANAL-0373,Analgésicos,N,17.19
+1373,VITA-0374,Vitaminas,N,113.16
+1374,GENÉ-0375,Genéricos,N,14.31
+1375,GENÉ-0376,Genéricos,N,5.97
+1376,ANTI-0377,Antigripales,N,12.68
+1377,CUID-0378,Cuidado infantil,N,63.49
+1378,DERM-0379,Dermatológicos,N,56.27
+1379,CUID-0380,Cuidado infantil,N,24.12
+1380,VITA-0381,Vitaminas,S,105.52
+1381,ANTI-0382,Antigripales,N,9.24
+1382,GENÉ-0383,Genéricos,N,4.06
+1383,VITA-0384,Vitaminas,N,36.92
+1384,ANAL-0385,Analgésicos,S,21.44
+1385,DERM-0386,Dermatológicos,N,32.35
+1386,DERM-0387,Dermatológicos,N,43.79
+1387,ANTI-0388,Antigripales,S,44.13
+1388,ANTI-0389,Antigripales,N,43.95
+1389,HIGI-0390,Higiene personal,N,10.69
+1390,HIGI-0391,Higiene personal,N,10.83
+1391,ANTI-0392,Antigripales,S,39.07
+1392,DERM-0393,Dermatológicos,N,67.03
+1393,VITA-0394,Vitaminas,N,63.81
+1394,VITA-0395,Vitaminas,S,25.43
+1395,GENÉ-0396,Genéricos,N,4.2
+1396,ANTI-0397,Antigripales,N,9.07
+1397,GENÉ-0398,Genéricos,N,16.43
+1398,ANTI-0399,Antigripales,N,33.34
+1399,GENÉ-0400,Genéricos,S,8.55
+1400,ANTI-0401,Antigripales,N,26.81
+1401,ANAL-0402,Analgésicos,N,17.25
+1402,HIGI-0403,Higiene personal,S,35.5
+1403,HIGI-0404,Higiene personal,N,16.65
+1404,ANAL-0405,Analgésicos,N,9.66
+1405,GENÉ-0406,Genéricos,N,12.75
+1406,GENÉ-0407,Genéricos,N,3.33
+1407,ANAL-0408,Analgésicos,N,21.45
+1408,HIGI-0409,Higiene personal,N,30.19
+1409,VITA-0410,Vitaminas,N,87.58
+1410,GENÉ-0411,Genéricos,N,14.4
+1411,ANAL-0412,Analgésicos,N,23.61
+1412,ANAL-0413,Analgésicos,N,17.94
+1413,GENÉ-0414,Genéricos,N,13.34
+1414,HIGI-0415,Higiene personal,S,7.78
+1415,ANTI-0416,Antigripales,N,22.32
+1416,HIGI-0417,Higiene personal,S,12.13
+1417,ANTI-0418,Antigripales,N,21.54
+1418,DERM-0419,Dermatológicos,N,56.14
+1419,DERM-0420,Dermatológicos,N,58.65
+1420,CUID-0421,Cuidado infantil,S,59.27
+1421,HIGI-0422,Higiene personal,N,29.18
+1422,VITA-0423,Vitaminas,N,37.27
+1423,CUID-0424,Cuidado infantil,S,41.73
+1424,ANAL-0425,Analgésicos,N,27.82
+1425,ANTI-0426,Antigripales,N,10.82
+1426,GENÉ-0427,Genéricos,N,12.3
+1427,ANTI-0428,Antigripales,N,36.18
+1428,HIGI-0429,Higiene personal,N,7.77
+1429,VITA-0430,Vitaminas,S,66.49
+1430,GENÉ-0431,Genéricos,N,12.3
+1431,ANTI-0432,Antigripales,N,25.46
+1432,ANTI-0433,Antigripales,N,12.54
+1433,GENÉ-0434,Genéricos,N,11.97
+1434,ANTI-0435,Antigripales,N,20.22
+1435,GENÉ-0436,Genéricos,N,10.71
+1436,HIGI-0437,Higiene personal,N,30.16
+1437,ANAL-0438,Analgésicos,N,26.14
+1438,ANAL-0439,Analgésicos,N,19.2
+1439,GENÉ-0440,Genéricos,N,17.44
+1440,CUID-0441,Cuidado infantil,N,50.65
+1441,ANAL-0442,Analgésicos,S,29.73
+1442,ANAL-0443,Analgésicos,N,8.34
+1443,CUID-0444,Cuidado infantil,S,63.55
+1444,ANAL-0445,Analgésicos,N,17.37
+1445,GENÉ-0446,Genéricos,N,14.32
+1446,ANAL-0447,Analgésicos,N,13.57
+1447,VITA-0448,Vitaminas,N,88.87
+1448,HIGI-0449,Higiene personal,S,9.46
+1449,ANAL-0450,Analgésicos,S,7.85
+1450,GENÉ-0451,Genéricos,N,15.87
+1451,HIGI-0452,Higiene personal,N,34.34
+1452,DERM-0453,Dermatológicos,N,50.87
+1453,CUID-0454,Cuidado infantil,N,42.53
+1454,GENÉ-0455,Genéricos,N,15.89
+1455,GENÉ-0456,Genéricos,N,5.15
+1456,DERM-0457,Dermatológicos,N,90.12
+1457,ANAL-0458,Analgésicos,N,9.72
+1458,ANTI-0459,Antigripales,N,42.3
+1459,GENÉ-0460,Genéricos,N,12.62
+1460,VITA-0461,Vitaminas,N,73.37
+1461,GENÉ-0462,Genéricos,N,4.41
+1462,HIGI-0463,Higiene personal,N,29.59
+1463,CUID-0464,Cuidado infantil,N,77.4
+1464,ANTI-0465,Antigripales,N,21.31
+1465,DERM-0466,Dermatológicos,N,64.69
+1466,VITA-0467,Vitaminas,N,45.15
+1467,DERM-0468,Dermatológicos,S,75.07
+1468,HIGI-0469,Higiene personal,N,28.34
+1469,CUID-0470,Cuidado infantil,S,44.64
+1470,GENÉ-0471,Genéricos,N,5.9
+1471,DERM-0472,Dermatológicos,S,43.94
+1472,DERM-0473,Dermatológicos,S,55.93
+1473,ANTI-0474,Antigripales,N,36.54
+1474,CUID-0475,Cuidado infantil,N,42.88
+1475,ANAL-0476,Analgésicos,S,18.09
+1476,ANAL-0477,Analgésicos,N,16.06
+1477,DERM-0478,Dermatológicos,N,45.72
+1478,ANAL-0479,Analgésicos,N,22.58
+1479,ANTI-0480,Antigripales,N,37.43
+1480,ANTI-0481,Antigripales,N,12.93
+1481,ANAL-0482,Analgésicos,N,22.45
+1482,VITA-0483,Vitaminas,N,92.6
+1483,HIGI-0484,Higiene personal,N,25.56
+1484,GENÉ-0485,Genéricos,N,8.96
+1485,DERM-0486,Dermatológicos,S,40.44
+1486,VITA-0487,Vitaminas,N,54.38
+1487,ANAL-0488,Analgésicos,N,8.37
+1488,GENÉ-0489,Genéricos,N,14.51
+1489,DERM-0490,Dermatológicos,S,80.84
+1490,ANTI-0491,Antigripales,N,12.87
+1491,VITA-0492,Vitaminas,N,118.67
+1492,GENÉ-0493,Genéricos,S,9.25
+1493,ANTI-0494,Antigripales,N,37.96
+1494,ANTI-0495,Antigripales,N,36.21
+1495,VITA-0496,Vitaminas,N,53.05
+1496,VITA-0497,Vitaminas,N,41.87
+1497,GENÉ-0498,Genéricos,N,10.17
+1498,GENÉ-0499,Genéricos,N,16.94
+1499,HIGI-0500,Higiene personal,S,23.54
+1500,HIGI-0501,Higiene personal,N,16.85
+1501,ANAL-0502,Analgésicos,N,9.1
+1502,CUID-0503,Cuidado infantil,N,13.64
+1503,GENÉ-0504,Genéricos,N,7.68
+1504,HIGI-0505,Higiene personal,S,32.73
+1505,GENÉ-0506,Genéricos,N,15.09
+1506,ANTI-0507,Antigripales,N,38.97
+1507,ANAL-0508,Analgésicos,N,12.08
+1508,VITA-0509,Vitaminas,N,70.1
+1509,DERM-0510,Dermatológicos,N,30.9
+1510,ANTI-0511,Antigripales,S,39.01
+1511,CUID-0512,Cuidado infantil,N,47.07
+1512,HIGI-0513,Higiene personal,N,31.76
+1513,CUID-0514,Cuidado infantil,N,16.51
+1514,HIGI-0515,Higiene personal,N,8.38
+1515,ANAL-0516,Analgésicos,N,14.76
+1516,ANAL-0517,Analgésicos,N,27.29
+1517,VITA-0518,Vitaminas,N,87.75
+1518,ANTI-0519,Antigripales,S,40.02
+1519,VITA-0520,Vitaminas,N,89.25
+1520,HIGI-0521,Higiene personal,S,33.21
+1521,ANAL-0522,Analgésicos,N,8.06
+1522,DERM-0523,Dermatológicos,S,79.12
+1523,ANTI-0524,Antigripales,S,39.57
+1524,GENÉ-0525,Genéricos,S,7.57
+1525,ANTI-0526,Antigripales,N,25.79
+1526,GENÉ-0527,Genéricos,N,9.65
+1527,VITA-0528,Vitaminas,N,101.34
+1528,GENÉ-0529,Genéricos,N,10.54
+1529,DERM-0530,Dermatológicos,N,79.98
+1530,HIGI-0531,Higiene personal,N,16.95
+1531,ANAL-0532,Analgésicos,N,10.53
+1532,GENÉ-0533,Genéricos,N,11.43
+1533,ANTI-0534,Antigripales,S,27.41
+1534,GENÉ-0535,Genéricos,N,9.08
+1535,ANTI-0536,Antigripales,S,32.55
+1536,ANTI-0537,Antigripales,S,40.92
+1537,ANTI-0538,Antigripales,N,30.95
+1538,ANTI-0539,Antigripales,N,18.27
+1539,GENÉ-0540,Genéricos,S,14.44
+1540,VITA-0541,Vitaminas,S,80.89
+1541,ANAL-0542,Analgésicos,N,9.75
+1542,VITA-0543,Vitaminas,N,65.94
+1543,ANAL-0544,Analgésicos,N,28.12
+1544,VITA-0545,Vitaminas,N,99.15
+1545,ANTI-0546,Antigripales,N,30.98
+1546,ANTI-0547,Antigripales,S,40.92
+1547,ANTI-0548,Antigripales,N,31.8
+1548,CUID-0549,Cuidado infantil,N,43.52
+1549,ANTI-0550,Antigripales,S,9.24
+1550,ANAL-0551,Analgésicos,N,7.17
+1551,HIGI-0552,Higiene personal,N,24.17
+1552,ANAL-0553,Analgésicos,N,13.59
+1553,ANAL-0554,Analgésicos,S,25.83
+1554,ANAL-0555,Analgésicos,N,14.31
+1555,ANTI-0556,Antigripales,N,19.86
+1556,GENÉ-0557,Genéricos,N,9.45
+1557,HIGI-0558,Higiene personal,N,13.76
+1558,VITA-0559,Vitaminas,N,61.22
+1559,ANAL-0560,Analgésicos,N,19.36
+1560,VITA-0561,Vitaminas,N,76.09
+1561,ANTI-0562,Antigripales,S,39.9
+1562,GENÉ-0563,Genéricos,N,17.39
+1563,GENÉ-0564,Genéricos,N,8.03
+1564,HIGI-0565,Higiene personal,N,18.28
+1565,VITA-0566,Vitaminas,N,42.33
+1566,VITA-0567,Vitaminas,N,92.51
+1567,ANTI-0568,Antigripales,N,30.99
+1568,VITA-0569,Vitaminas,N,107.59
+1569,HIGI-0570,Higiene personal,N,32.7
+1570,HIGI-0571,Higiene personal,S,28.17
+1571,ANAL-0572,Analgésicos,N,24.04
+1572,GENÉ-0573,Genéricos,N,14.54
+1573,GENÉ-0574,Genéricos,N,10.57
+1574,DERM-0575,Dermatológicos,N,93.52
+1575,ANTI-0576,Antigripales,N,42.88
+1576,CUID-0577,Cuidado infantil,N,54.18
+1577,VITA-0578,Vitaminas,N,32.66
+1578,HIGI-0579,Higiene personal,S,23.17
+1579,GENÉ-0580,Genéricos,N,5.94
+1580,HIGI-0581,Higiene personal,N,19.12
+1581,ANTI-0582,Antigripales,S,33.71
+1582,GENÉ-0583,Genéricos,N,7.76
+1583,HIGI-0584,Higiene personal,N,13.62
+1584,CUID-0585,Cuidado infantil,N,68.97
+1585,VITA-0586,Vitaminas,N,108.01
+1586,GENÉ-0587,Genéricos,S,13.81
+1587,CUID-0588,Cuidado infantil,N,63.91
+1588,ANAL-0589,Analgésicos,S,5.25
+1589,VITA-0590,Vitaminas,N,58.66
+1590,GENÉ-0591,Genéricos,N,14.21
+1591,HIGI-0592,Higiene personal,N,17.24
+1592,ANTI-0593,Antigripales,N,44.57
+1593,HIGI-0594,Higiene personal,S,7.63
+1594,ANAL-0595,Analgésicos,N,5.11
+1595,ANAL-0596,Analgésicos,N,20.33
+1596,CUID-0597,Cuidado infantil,N,31.48
+1597,ANTI-0598,Antigripales,N,44.29
+1598,GENÉ-0599,Genéricos,N,4.58
+1599,GENÉ-0600,Genéricos,N,14.03
+1600,HIGI-0601,Higiene personal,N,36.91
+1601,GENÉ-0602,Genéricos,N,6.13
+1602,HIGI-0603,Higiene personal,N,38.94
+1603,ANTI-0604,Antigripales,S,19.15
+1604,VITA-0605,Vitaminas,N,63.04
+1605,CUID-0606,Cuidado infantil,N,22.35
+1606,CUID-0607,Cuidado infantil,N,20.09
+1607,GENÉ-0608,Genéricos,N,12.11
+1608,VITA-0609,Vitaminas,N,100.17
+1609,ANTI-0610,Antigripales,N,34.97
+1610,ANTI-0611,Antigripales,N,16.41
+1611,ANTI-0612,Antigripales,S,27.6
+1612,CUID-0613,Cuidado infantil,N,36.24
+1613,VITA-0614,Vitaminas,N,34.48
+1614,GENÉ-0615,Genéricos,N,6.34
+1615,VITA-0616,Vitaminas,N,102.68
+1616,HIGI-0617,Higiene personal,N,18.84
+1617,GENÉ-0618,Genéricos,N,10.48
+1618,ANAL-0619,Analgésicos,N,14.32
+1619,ANTI-0620,Antigripales,S,10.23
+1620,ANTI-0621,Antigripales,S,38.9
+1621,GENÉ-0622,Genéricos,N,7.17
+1622,HIGI-0623,Higiene personal,S,28.28
+1623,VITA-0624,Vitaminas,N,68.81
+1624,DERM-0625,Dermatológicos,N,89.39
+1625,CUID-0626,Cuidado infantil,N,62.28
+1626,ANTI-0627,Antigripales,S,32.91
+1627,ANAL-0628,Analgésicos,N,22.26
+1628,ANTI-0629,Antigripales,N,43.98
+1629,GENÉ-0630,Genéricos,N,13.12
+1630,HIGI-0631,Higiene personal,N,7.17
+1631,DERM-0632,Dermatológicos,S,77.86
+1632,DERM-0633,Dermatológicos,N,89.86
+1633,VITA-0634,Vitaminas,N,109.22
+1634,ANTI-0635,Antigripales,N,35.13
+1635,HIGI-0636,Higiene personal,N,24.46
+1636,DERM-0637,Dermatológicos,N,81.32
+1637,ANAL-0638,Analgésicos,N,18.49
+1638,GENÉ-0639,Genéricos,S,12.7
+1639,VITA-0640,Vitaminas,N,103.01
+1640,DERM-0641,Dermatológicos,S,51.67
+1641,VITA-0642,Vitaminas,N,22.82
+1642,GENÉ-0643,Genéricos,N,13.35
+1643,ANTI-0644,Antigripales,N,11.62
+1644,GENÉ-0645,Genéricos,N,11.12
+1645,ANTI-0646,Antigripales,N,39.34
+1646,GENÉ-0647,Genéricos,N,2.98
+1647,GENÉ-0648,Genéricos,S,16.97
+1648,ANTI-0649,Antigripales,N,27.73
+1649,GENÉ-0650,Genéricos,N,9.4
+1650,ANTI-0651,Antigripales,N,24.09
+1651,ANAL-0652,Analgésicos,N,28.19
+1652,HIGI-0653,Higiene personal,N,28.98
+1653,DERM-0654,Dermatológicos,N,30.79
+1654,GENÉ-0655,Genéricos,N,13.76
+1655,ANAL-0656,Analgésicos,N,16.16
+1656,VITA-0657,Vitaminas,N,74.64
+1657,CUID-0658,Cuidado infantil,S,30.8
+1658,HIGI-0659,Higiene personal,N,10.86
+1659,ANAL-0660,Analgésicos,N,14.23
+1660,ANAL-0661,Analgésicos,S,8.67
+1661,GENÉ-0662,Genéricos,N,12.9
+1662,HIGI-0663,Higiene personal,N,18.12
+1663,ANAL-0664,Analgésicos,N,20.84
+1664,ANAL-0665,Analgésicos,N,18.67
+1665,CUID-0666,Cuidado infantil,N,59.09
+1666,ANAL-0667,Analgésicos,N,6.75
+1667,GENÉ-0668,Genéricos,N,3.47
+1668,ANAL-0669,Analgésicos,N,29.21
+1669,CUID-0670,Cuidado infantil,N,29.92
+1670,GENÉ-0671,Genéricos,N,10.82
+1671,ANTI-0672,Antigripales,N,17.49
+1672,ANAL-0673,Analgésicos,N,29.49
+1673,GENÉ-0674,Genéricos,N,12.41
+1674,HIGI-0675,Higiene personal,N,18.88
+1675,ANTI-0676,Antigripales,N,33.53
+1676,DERM-0677,Dermatológicos,N,33.18
+1677,CUID-0678,Cuidado infantil,N,59.18
+1678,DERM-0679,Dermatológicos,N,22.12
+1679,CUID-0680,Cuidado infantil,S,39.71
+1680,GENÉ-0681,Genéricos,N,16.4
+1681,ANTI-0682,Antigripales,N,14.88
+1682,CUID-0683,Cuidado infantil,N,21.87
+1683,ANTI-0684,Antigripales,N,32.69
+1684,DERM-0685,Dermatológicos,N,85.1
+1685,ANAL-0686,Analgésicos,N,27.65
+1686,GENÉ-0687,Genéricos,S,2.99
+1687,ANTI-0688,Antigripales,N,41.71
+1688,GENÉ-0689,Genéricos,N,2.61
+1689,VITA-0690,Vitaminas,N,31.23
+1690,CUID-0691,Cuidado infantil,N,67.93
+1691,DERM-0692,Dermatológicos,N,59.44
+1692,ANAL-0693,Analgésicos,N,26.26
+1693,VITA-0694,Vitaminas,N,112.73
+1694,ANAL-0695,Analgésicos,N,20.16
+1695,ANAL-0696,Analgésicos,S,22.93
+1696,HIGI-0697,Higiene personal,N,13.93
+1697,DERM-0698,Dermatológicos,N,83.83
+1698,HIGI-0699,Higiene personal,S,22.25
+1699,CUID-0700,Cuidado infantil,S,64.71
+1700,GENÉ-0701,Genéricos,N,2.08
+1701,ANTI-0702,Antigripales,N,37.2
+1702,ANAL-0703,Analgésicos,S,10.58
+1703,ANAL-0704,Analgésicos,N,27.88
+1704,VITA-0705,Vitaminas,N,34.55
+1705,GENÉ-0706,Genéricos,N,17.9
+1706,HIGI-0707,Higiene personal,S,25.27
+1707,ANAL-0708,Analgésicos,N,6.97
+1708,VITA-0709,Vitaminas,N,46.57
+1709,HIGI-0710,Higiene personal,N,30.71
+1710,CUID-0711,Cuidado infantil,S,57.19
+1711,GENÉ-0712,Genéricos,S,10.11
+1712,GENÉ-0713,Genéricos,N,2.83
+1713,VITA-0714,Vitaminas,N,95.61
+1714,ANAL-0715,Analgésicos,N,8.69
+1715,HIGI-0716,Higiene personal,S,13.84
+1716,VITA-0717,Vitaminas,N,58.73
+1717,DERM-0718,Dermatológicos,N,23.51
+1718,DERM-0719,Dermatológicos,N,87.2
+1719,ANTI-0720,Antigripales,N,31.99
+1720,DERM-0721,Dermatológicos,N,46.7
+1721,GENÉ-0722,Genéricos,N,10.08
+1722,ANTI-0723,Antigripales,N,23.91
+1723,HIGI-0724,Higiene personal,N,28.17
+1724,ANTI-0725,Antigripales,N,39.23
+1725,VITA-0726,Vitaminas,N,119.9
+1726,ANAL-0727,Analgésicos,N,19.61
+1727,ANAL-0728,Analgésicos,S,7.3
+1728,HIGI-0729,Higiene personal,N,37.53
+1729,GENÉ-0730,Genéricos,N,14.86
+1730,GENÉ-0731,Genéricos,N,14.66
+1731,ANTI-0732,Antigripales,N,34.19
+1732,ANTI-0733,Antigripales,N,40.88
+1733,HIGI-0734,Higiene personal,N,26.07
+1734,GENÉ-0735,Genéricos,N,6.32
+1735,GENÉ-0736,Genéricos,N,10.92
+1736,DERM-0737,Dermatológicos,N,57.13
+1737,CUID-0738,Cuidado infantil,N,16.25
+1738,ANTI-0739,Antigripales,N,33.96
+1739,HIGI-0740,Higiene personal,N,35.3
+1740,DERM-0741,Dermatológicos,S,65.3
+1741,CUID-0742,Cuidado infantil,N,30.23
+1742,HIGI-0743,Higiene personal,N,39.59
+1743,HIGI-0744,Higiene personal,N,39.8
+1744,GENÉ-0745,Genéricos,N,9.76
+1745,ANTI-0746,Antigripales,S,12.48
+1746,GENÉ-0747,Genéricos,N,3.81
+1747,GENÉ-0748,Genéricos,N,13.84
+1748,ANTI-0749,Antigripales,N,12.12
+1749,ANTI-0750,Antigripales,N,30.23
+1750,CUID-0751,Cuidado infantil,N,70.2
+1751,HIGI-0752,Higiene personal,N,37.83
+1752,ANAL-0753,Analgésicos,S,20.05
+1753,HIGI-0754,Higiene personal,S,14.76
+1754,ANAL-0755,Analgésicos,N,28.81
+1755,ANTI-0756,Antigripales,N,25.44
+1756,ANAL-0757,Analgésicos,N,16.5
+1757,ANAL-0758,Analgésicos,N,10.95
+1758,DERM-0759,Dermatológicos,N,63.55
+1759,ANTI-0760,Antigripales,N,26.88
+1760,CUID-0761,Cuidado infantil,S,27.04
+1761,ANTI-0762,Antigripales,N,9.79
+1762,ANAL-0763,Analgésicos,N,11.05
+1763,HIGI-0764,Higiene personal,N,23.68
+1764,GENÉ-0765,Genéricos,N,2.75
+1765,HIGI-0766,Higiene personal,N,37.98
+1766,HIGI-0767,Higiene personal,N,28.89
+1767,HIGI-0768,Higiene personal,S,37.0
+1768,HIGI-0769,Higiene personal,N,23.28
+1769,GENÉ-0770,Genéricos,N,13.34
+1770,GENÉ-0771,Genéricos,S,11.01
+1771,GENÉ-0772,Genéricos,N,6.5
+1772,CUID-0773,Cuidado infantil,N,54.09
+1773,DERM-0774,Dermatológicos,N,43.93
+1774,ANTI-0775,Antigripales,N,12.06
+1775,VITA-0776,Vitaminas,S,75.45
+1776,HIGI-0777,Higiene personal,N,12.14
+1777,VITA-0778,Vitaminas,N,92.73
+1778,ANTI-0779,Antigripales,N,12.76
+1779,ANAL-0780,Analgésicos,S,10.82
+1780,VITA-0781,Vitaminas,N,68.45
+1781,ANAL-0782,Analgésicos,N,29.92
+1782,ANAL-0783,Analgésicos,N,7.67
+1783,VITA-0784,Vitaminas,N,27.13
+1784,GENÉ-0785,Genéricos,N,5.63
+1785,ANAL-0786,Analgésicos,S,15.04
+1786,ANTI-0787,Antigripales,N,35.48
+1787,VITA-0788,Vitaminas,N,103.39
+1788,ANTI-0789,Antigripales,N,13.08
+1789,GENÉ-0790,Genéricos,N,14.55
+1790,ANAL-0791,Analgésicos,N,19.76
+1791,DERM-0792,Dermatológicos,S,70.68
+1792,HIGI-0793,Higiene personal,N,31.66
+1793,ANAL-0794,Analgésicos,S,14.53
+1794,DERM-0795,Dermatológicos,N,64.86
+1795,HIGI-0796,Higiene personal,N,39.7
+1796,GENÉ-0797,Genéricos,N,12.54
+1797,CUID-0798,Cuidado infantil,N,68.83
+1798,GENÉ-0799,Genéricos,N,8.54
+1799,ANAL-0800,Analgésicos,N,17.71
